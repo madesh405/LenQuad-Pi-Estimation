@@ -1,4 +1,4 @@
-# LenQuad-Based Estimation of π
+# Estimation of PI using LenQuad model
 
 This repository contains the **Python implementation of the LenQuad (Linear Quadratic) mathematical model**
 used to estimate the value of π using one quadrant of a circle.
