@@ -15,7 +15,7 @@ mathematical modeling and computation.
 **Paper Title:**  
 *Implementation of LenQuad (Linear Quadratic) Mathematical Model in Python to Estimate the Value of π Using One Quadrant of a Given Circle*
 
-**Journal:** :  EPRA International Journal of Research & Development (IJRD)  
+**Journal:** EPRA International Journal of Research & Development (IJRD)  
 **Volume & Issue:** Vol. 8, Issue 7  
 **Publication Date:** July 2023  
 
